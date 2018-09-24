@@ -1,5 +1,5 @@
 # About [![Build Status](https://travis-ci.org/karpikpl/kattis-js-ecma2016.svg?branch=master)](https://travis-ci.org/karpikpl/kattis-js-ecma2016)
-ES2016 wrapper for https://open.kattis.com/ platform.
+ES2016 wrapper for https://open.kattis.com/ JAVASCRIPT SPIDER MONKEY platform.
 
 ## Usage
 Run `./start -p [PROBLEM] -w [WORKDIR]` where:
@@ -31,4 +31,4 @@ run `node index.js i` for interactive mode. Empty line terminates input.
 run `npm start` to transpile code to Firefox 24 - SpiderMonkey version JavaScript-C24.2.0
 
 ## Kattis and JavaScript
-https://open.kattis.com/help/javascript
+https://open.kattis.com/help/javascriptspidermonkey
