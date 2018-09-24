@@ -12,6 +12,15 @@ Put your solution inside `solution()` method. Add tests in `test/index.js`.
 ### Testing
 run `npm test` to run mocha unit tests
 
+### Data files
+Put data files from kattis into `datafiles` directory in the root folder.
+```
+index.js
+\datafiles
+   1.ans
+   1.in
+```
+
 ### Providing input as process params
 run `node index.js [input string]`
 
